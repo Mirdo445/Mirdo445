@@ -1,3 +1,5 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/WrVDdcLT'))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
 
+loadstring(game:HttpGet("https://pastebin.com/raw/TCGEH1Tv"))()
