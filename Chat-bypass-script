@@ -4,3 +4,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/addit
 
 
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
