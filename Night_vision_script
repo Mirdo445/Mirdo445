@@ -1,0 +1,9 @@
+--Made By JN HH Gaming
+
+game.Lighting.OutdoorAmbient = Color3.new(1,1,1)
+game.Lighting.Ambient = Color3.new(1,1,1)
+game.Lighting.OutdoorAmbient = Color3.new(1,0,0)
+game.Lighting.TimeOfDay = "12:00:00"
+game.Lighting.FogColor = Color3.new(0,0,0)
+game.Lighting.FogEnd = 1000
+print("Loaded!")
